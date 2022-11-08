@@ -9,3 +9,12 @@ Download schedule in PDF format from Academy website using cronjob.
     a.  If the hashes are diffrent, send SMS using Twilio or send email using SendGrid, with URL and value in database.
 
     b.  If the hashes are the same do nothing.
+
+## Used technologies ##
+- AWS (Lambda, EventBridge, Cloudwatch)  <img height="24" width="24" src="https://cdn.simpleicons.org/amazonaws/white" />
+- Twilio, to sent SMS <img height="24" width="24" src="https://cdn.simpleicons.org/twilio" />
+- SendGrid to sent Emails
+- node.js <img height="24" width="24" src="https://cdn.simpleicons.org/node.js" />
+- mongoDb, mongoose <img height="24" width="24" src="https://cdn.simpleicons.org/mongodb" />
+- cheerio
+- js-md5
