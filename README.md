@@ -18,5 +18,6 @@ Download schedule in PDF format from Academy website using cronjob.
 - mongoDb, mongoose <img height="24" width="24" src="https://cdn.simpleicons.org/mongodb" />
 - cheerio
 - js-md5
+- cronjob
 
 ![Diagram bez tytułu drawio (1)](https://user-images.githubusercontent.com/61602042/200808275-2843bd1b-45cd-4d0c-8b3e-6df608b38591.svg)
