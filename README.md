@@ -12,8 +12,8 @@ Download schedule in PDF format from Academy website using cronjob.
 
 ## Used technologies ##
 - AWS (Lambda, EventBridge, Cloudwatch)  <img height="24" width="24" src="https://cdn.simpleicons.org/amazonaws/white" />
-- Twilio, to sent SMS <img height="24" width="24" src="https://cdn.simpleicons.org/twilio" />
-- SendGrid to sent Emails
+- Twilio, to send SMS <img height="24" width="24" src="https://cdn.simpleicons.org/twilio" />
+- SendGrid to send Emails
 - node.js <img height="24" width="24" src="https://cdn.simpleicons.org/node.js" />
 - mongoDb, mongoose <img height="24" width="24" src="https://cdn.simpleicons.org/mongodb" />
 - cheerio
